@@ -15,4 +15,8 @@ let app = new App({title: 'Game Ball'})
 app.run()
 ```
 
+# Progression:
+- [] Turn on GitHub Pages
+- [] Outline my portfolio
+- [x] Introduce myself to the world
 
